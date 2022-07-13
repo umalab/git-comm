@@ -7,7 +7,13 @@ command that are used in git
 5 git log  -> to check the commit
 
 
-4 if u want to skipthe stagging area and want to direct commit then the command is
+6 if u want to skipthe stagging area and want to direct commit then the command is
  git commit -a -m																							
 
+8 if we want to merge to branch then commad is
+
+1. first u go inside that branch where u want a file merge
+
+2. after that we type the command
+  git merge "branch name"
 
