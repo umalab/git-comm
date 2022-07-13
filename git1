@@ -3,4 +3,11 @@ command that are used in git
 1 git init
 2 git status
 3 git add file name - to track the file
+4 git commit -m "write what u add in commit"
+5 git log  -> to check the commit
+
+
+4 if u want to skipthe stagging area and want to direct commit then the command is
+ git commit -a -m																							
+
 
