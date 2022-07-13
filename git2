@@ -1,0 +1,7 @@
+this is used to add and merge and delete
+1 if any file are deleted after commit and we want to retrive that fit then command is
+  git checkout "deleted file name"'
+
+
+2 if we modify the file and we want to add again and check ststus
+
