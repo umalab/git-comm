@@ -15,5 +15,5 @@ command that are used in git
 1. first u go inside that branch where u want a file merge
 
 2. after that we type the command
-  git merge "branch name"
+  git merge "branch names"
 
